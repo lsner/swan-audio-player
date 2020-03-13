@@ -1,0 +1,25 @@
+{
+  "name": "swan-audio-player",
+  "version": "1.0.0",
+  "description": "百度小程序 全局播放器 音频播放组件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lsner/swan-audio-player.git"
+  },
+  "keywords": [
+    "audio",
+    "player",
+    "swan",
+    "baidu"
+  ],
+  "author": "lsner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lsner/swan-audio-player/issues"
+  },
+  "homepage": "https://github.com/lsner/swan-audio-player#readme"
+}

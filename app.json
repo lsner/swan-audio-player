@@ -1,0 +1,12 @@
+{
+  "debug": true,
+  "pages": ["src/index"],
+  "window": {
+    "navigationBarBackgroundColor": "#ffffff",
+    "navigationBarTitleText": "全局播放器",
+    "navigationBarTextStyle": "black",
+    "backgroundTextStyle": "black"
+  },
+
+  "requiredBackgroundModes": ["audio"]
+}
